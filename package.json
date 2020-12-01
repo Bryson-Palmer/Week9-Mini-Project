@@ -1,15 +1,20 @@
 {
-  "name": "28-Stu_Mini-project",
+  "name": "Week9-Mini-Project",
   "version": "1.0.0",
-  "description": "In this activity, you will build a command-line tool that generates an HTML portfolio page from user input.",
+  "description": "An HTML portfolio generator using node.",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Bryson-Palmer/Week9-Mini-Project.git"
+  },
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "dependencies": {
-    "inquirer": "^7.3.3"
-  }
+  "bugs": {
+    "url": "https://github.com/Bryson-Palmer/Week9-Mini-Project/issues"
+  },
+  "homepage": "https://github.com/Bryson-Palmer/Week9-Mini-Project#readme"
 }
