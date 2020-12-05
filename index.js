@@ -75,13 +75,3 @@ const init = async () => {
 };
 
 init();
-
-// console.log(prompts);
-// console.log(html);
-
-// prompts()
-//     .then((data) => { writeFileAsync("index.html", html(data))
-
-//     .then
-    
-    // console.log(data);
